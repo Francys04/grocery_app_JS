@@ -23,17 +23,17 @@
 - To delete an item, click the delete button (trash icon) next to the item.
 - To clear the entire list, click the "Clear Items" button at the bottom.
 #### Installation
-- Clone the repository:
+1. Clone the repository:
 
-1. Copy code
-git clone [repository_url]
+- Copy code
+git clone https://github.com/Francys04/grocery_app_JS
 Navigate to the project directory:
 
-2. Copy code
+- Copy code
 cd grocery-bud
 Open the index.html file in a web browser.
 
-3. Fork the repository.
+2. Fork the repository.
 - Create a new branch for your feature or bug fix: git checkout -b feature-name.
 - Make your changes and commit them: git commit -m "Add feature".
 - Push your changes to your fork: git push origin feature-name.
